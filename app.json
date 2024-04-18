@@ -21,7 +21,7 @@
         },
         "OWNER": {
             "description": "Put ids of user which can access the bot e.g 123456789",
-            "value": ""
+            "value": "5066042764"
         },
         "THUMBNAIL": {
             "description": "Put Link of any picture.",
