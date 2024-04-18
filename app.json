@@ -26,7 +26,7 @@
         "THUMBNAIL": {
             "description": "Put Link of any picture.",
             "value": "https://graph.org/file/1cc8d7082dc910c0ccee8.jpg",
-            "required": True 
+            "required": true 
         }
     }
 }
